@@ -1,4 +1,4 @@
-# Taken day number from user
+# Taken day number from traveller
 weekday = int(input("Enter weekday day number (1-7) : "))
 if weekday == 1 :
     print("\nMon");
